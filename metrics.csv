@@ -1,0 +1,6 @@
+metric_code,metric_description,value_label,value_type
+TB-001,Dog related,How many dogs do you own?,number
+TB-001,Dog related,Favorite color of dog,text
+TB-002,TV related,Favorite show,text
+TB-002,TV related,Average hours per week spent watching tv,number
+TB-002,TV related,Favorite actor,text
